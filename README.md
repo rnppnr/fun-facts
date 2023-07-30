@@ -3,3 +3,5 @@
 This is a simple API that returns fun facts.
 
 Created to test if it would work on Vercel it does but the swagger ui is not working.
+
+Swagger UI works on cyclic.
