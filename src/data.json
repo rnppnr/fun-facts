@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "fact": "Astronauts grow taller in space because without gravity pushing down on their spines, the vertebrae spread apart",
+      "source": "https://www.spacecentre.co.uk/news/space-now-blog/why-do-you-grow-taller-in-space/"
+    },
+    {
+      "id": 2,
+      "fact": "We spend a year and a half of our lives in the bathroom",
+      "source": "https://www.infographicsarchive.com/how-long-do-you-spend-in-the-bathroom/"
+    },
+    {
+      "id": 3,
+      "fact": "There is a 50% chance that two people in a room of 23 people share the same birthday",
+      "source": "https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/"
+    },
+    {
+      "id": 4,
+      "fact": "Sea lions are the only animals that can clap to a beat",
+      "source": "https://news.ucsc.edu/2013/04/sea-lion-beat.html"
+    },
+    {
+      "id": 5,
+      "fact": "Glass balls bounce higher than rubber balls because of their unique properties",
+      "source": "https://sciencenotes.org/why-a-glass-ball-bounces-higher-than-a-rubber-ball/"
+    },
+    {
+      "id": 6,
+      "fact": "It snows metal on planet Venus",
+      "source": "https://www.smithsonianmag.com/smart-news/on-venus-it-snows-metal-99154/"
+    },
+    {
+      "id": 7,
+      "fact": "Adult cats only meow to communicate with humans",
+      "source": "https://www.encyclopedia.com/daily/is-it-true-that-cats-only-meow-at-humans/"
+    },
+    {
+      "id": 8,
+      "fact": "Octopuses have three hearts",
+      "source": "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html"
+    },
+    {
+      "id": 9,
+      "fact": "Space smells like seared steak",
+      "source": "https://www.popsci.com/science/article/2013-07/what-does-space-smell/"
+    },
+    {
+      "id": 10,
+      "fact": "Americans spend more on pets annually than Germany spends on its entire defense budget",
+      "source": "https://www.quora.com/Do-Americans-spend-more-money-on-pets-yearly-than-Germany-spends-on-its-entire-defense-budget?top_ans=114005192"
+    },
+    {
+      "id": 11,
+      "fact": "The first oranges weren’t orange",
+      "source": "https://htschool.hindustantimes.com/editorsdesk/knowledge-vine/did-you-know-that-the-first-oranges-werent-actually-orange"
+    },
+    {
+      "id": 12,
+      "fact": "The unicorn is the national animal of Scotland",
+      "source": "https://www.visitscotland.com/inspiration/culture/national-animal-unicorn"
+    },
+    {
+      "id": 13,
+      "fact": "The first computer was invented in the 1940s",
+      "source": "https://www.computerhistory.org/timeline/1940/"
+    },
+    {
+      "id": 14,
+      "fact": "Every year, more than 2,500 left-handed people are killed from using right-handed products",
+      "source": "https://unbelievable-facts.com/2016/03/facts-about-left-handed-people.html"
+    },
+    {
+      "id": 15,
+      "fact": "The first alarm clock could only ring at 4 a.m.",
+      "source": "https://en.wikipedia.org/wiki/Alarm_clock"
+    },
+    {
+      "id": 16,
+      "fact": "More United States presidents were born in October than any other month and none of them were born on the same day.",
+      "source": "https://npg.si.edu/blog/presidents%E2%80%99-day-math-case-october-presidents%E2%80%99-month"
+    },
+    {
+      "id": 17,
+      "fact": "The first movie ever to put out a motion-picture soundtrack was Snow White and the Seven Dwarves",
+      "source": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(soundtrack)"
+    },
+    {
+      "id": 18,
+      "fact": "The first person convicted of speeding was going eight mph",
+      "source": "https://www.guinnessworldrecords.com/world-records/414379-first-person-charged-with-a-speeding-offence"
+    },
+    {
+      "id": 19,
+      "fact": "The first fax machine was patented in 1843",
+      "source": "https://en.wikipedia.org/wiki/Fax"
+    },
+    {
+      "id": 20,
+      "fact": "The first VCR was made in 1956, cost about $50,000, and was roughly the size of a piano.",
+      "source": "https://www.thepeoplehistory.com/vcr.html"
+    },
+    {
+      "id": 21,
+      "fact": "Napoleon was once attacked by a horde of bunnies",
+      "source": "https://www.ripleys.com/weird-news/attacked-by-rabbits/"
+    },
+    {
+      "id": 22,
+      "fact": "The first smartphone was made in 1992",
+      "source": "https://blog.textedly.com/smartphone-history-when-were-smartphones-invented#third"
+    },
+    {
+      "id": 23,
+      "fact": "Issac Newton invented the cat flap",
+      "source": "https://www.dublincity.ie/library/blog/isaac-newton-invented-cat-door-and-other-facts-about-cats"
+    },
+    {
+      "id": 24,
+      "fact": "The first known robot was created around 400-350 BC by the mathematician Archytas and was an artificial bird.",
+      "source": "https://www.eejournal.com/fresh_bytes/the-first-robot-created-in-400-bce-was-a-steam-powered-pigeon/"
+    },
+    {
+      "id": 25,
+      "fact": "The first computer mouse was invented in 1964 by Doug Engelbart and Bill English",
+      "source": "https://www.sri.com/hoi/computer-mouse-and-interactive-computing/"
+    },
+    {
+      "id": 26,
+      "fact": "Snakes can predict earthquakes from 75 miles away and five days in advance",
+      "source": "https://www.usgs.gov/programs/earthquake-hazards/animals-earthquake-prediction"
+    }
+  ]
+}
