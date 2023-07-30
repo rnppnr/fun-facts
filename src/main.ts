@@ -4,8 +4,6 @@ import {
   DocumentBuilder,
   SwaggerCustomOptions,
 } from '@nestjs/swagger';
-import swaggerUI from 'swagger-ui-express';
-import swaggerJsDoc from 'swagger-jsdoc';
 
 import { AppModule } from './app.module';
 
@@ -19,7 +17,6 @@ async function bootstrap() {
     .setTitle('Fun Facts API')
     .setDescription('Retrieves fun facts')
     .setVersion('1.0')
-    .addServer('https://')
     .build();
 
   const options: SwaggerCustomOptions = {
